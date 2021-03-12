@@ -1,0 +1,24 @@
+Beskrivning: 
+
+Skapa en enkel företagslandingpage webbsida som ska innehålla en index.html fil, kontaktform.html fil och enkla css
+Ni ska jobba i grupp 
+Varje ändring ska sparas i git och stor ändringar ska pushas till github
+Dokumentera vilka kommando ni har använt i projektet och varför(enskilt docs) 
+ 
+
+G: 
+
+ 
+
+Studerande
+
+Ska kunna använda git och github
+Ska kunna göra pull och push request regelbundet 
+Ha förståelse om git branch 
+VG: 
+
+   
+
+Ska kunna göra revert vid behöv 
+Ska kunna självständigt lösa git konflikter 
+ 
