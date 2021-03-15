@@ -6,6 +6,11 @@ body {
   align-items: center;
 }
 .header {
+  align-items: center;
+  text-align: center;
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
   display: flex;
   justify-content: space-between;
   margin-top: 10px;
@@ -13,7 +18,8 @@ body {
   border-right: 5px rgb(185, 86, 20) solid;
   border-top: 5px rgb(185, 86, 20) solid;
   /*text-transform: capitalize;*/
-  background-color: rgba(255, 228, 196, 0.555);
+
+  /*background-color: rgba(255, 228, 196, 0.555);*/
   padding: 10px;
 }
 
@@ -22,9 +28,9 @@ body {
   box-sizing: border-box;
   border-left: 5px rgb(185, 86, 20) solid;
   border-bottom: 5px rgb(185, 86, 20) solid;
-
   background-color: rgba(255, 228, 196, 0.555);
   padding: 10px;
+  align-items: center;
 }
 
 .myUl {
@@ -37,6 +43,7 @@ body {
   background-color: brown;
 }
 .footer {
+  font-family: "Quicksand", sans-serif;
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
@@ -44,11 +51,19 @@ body {
   border-left: 5px rgb(185, 86, 20) solid;
   border-bottom: 5px rgb(185, 86, 20) solid;
   /*text-transform: capitalize;*/
-  background-color: rgba(255, 228, 196, 0.555);
+  /*background-color: rgba(255, 228, 196, 0.555);*/
   padding: 10px;
 }
 
 .btn {
-  background-color: grey;
+  margin-top: 5px;
+  padding: 10px;
+  background-color: rgb(185, 86, 20);
   color: white;
+  transform: 10s;
+  border-radius: 10%;
+}
+.btn:hover {
+  background-color: rgb(187, 123, 81);
+  color: black;
 }
