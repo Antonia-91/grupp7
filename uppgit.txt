@@ -6,7 +6,7 @@ Varje ändring ska sparas i git och stor ändringar ska pushas till github
 Dokumentera vilka kommando ni har använt i projektet och varför(enskilt docs) 
  
 
-G: 
+G:
 
  
 
