@@ -1,5 +1,4 @@
-[
-  {
+[{
     "Namn": "Antonia Pettersson",
     "email": "antonia.pettersson91@gmail.com",
     "gitHub": "Antonia-91",
@@ -12,10 +11,10 @@
     "stad": ""
   },
   {
-    "Namn": "",
-    "email": "",
-    "gitHub": "",
-    "stad": ""
+    "Namn": "Stina Smeds",
+    "email": "stina_smeds@hotmail.com",
+    "gitHub": "ssmeds",
+    "stad": "Lund"
   },
   {
     "Namn": "",
