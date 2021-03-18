@@ -20,7 +20,7 @@ fetch("/adress.json")
 
 function printInfo(persons) {
   for (person in persons) {
-    tamplate = `<li class"myli> Namn:  ${persons[person].Namn}<br> Email: ${persons[person].email}<br>  GitHub: ${persons[person].gitHub} <br> Stad:  ${persons[person].stad} </li> <br>`;
+    tamplate = `<li class"myli> Namn:  <strong>${persons[person].Namn}</strong><br> Email: ${persons[person].email}<br>  GitHub: ${persons[person].gitHub} <br> Stad:  ${persons[person].stad} </li> <br>`;
 
     ul.insertAdjacentHTML("beforeend", tamplate);
   }
