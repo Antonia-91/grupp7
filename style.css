@@ -36,20 +36,35 @@ h1 {
   border-bottom-right-radius: 15px;
 }
 
+/*.content {*/
+/*  margin-top: 20px;*/
+/*  box-sizing: border-box;*/
+/*  border-left: 5px rgb(93, 44, 0) solid;*/
+/*  border-bottom: 5px rgb(93, 44, 0) solid;*/
+/*  background-color: rgb(211, 188, 182, 0.95);*/
+/*  padding: 10px;*/
+/*  align-items: center;*/
+/*  width: 50vw;*/
+/*  border-radius: 15px;*/
+/*  border: 1px solid;*/
+/*  padding: 10px;*/
+/*  box-shadow: 8px 8px #a09393;*/
+/*}*/
+
 .content {
   margin-top: 20px;
-  box-sizing: border-box;
-  border-left: 5px rgb(93, 44, 0) solid;
-  border-bottom: 5px rgb(93, 44, 0) solid;
-  background-color: rgb(211, 188, 182, 0.95);
-  padding: 10px;
-  align-items: center;
-  width: 50vw;
-  border-radius: 15px;
-  border: 1px solid;
-  padding: 10px;
-  box-shadow: 8px 8px #a09393;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
 }
+.avatar {
+  margin: 30px;
+  width: 200px;
+  height: auto;
+  display: grid;
+}
+
 
 .myUl {
   /* text-align: left; */
