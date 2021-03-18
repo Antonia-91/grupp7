@@ -56,7 +56,10 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
 
+.personalFrame {
+  font-family: "Quicksand", sans-serif;
 }
 .avatar {
   margin: 30px;
